@@ -1,4 +1,3 @@
+Github Rocks
 
-layout	title
-slide
-Welcome to our slide deck!
+<img source="https://octodex.github.com/images/heisencat.png">
