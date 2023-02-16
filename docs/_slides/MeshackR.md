@@ -1,3 +1,3 @@
-Github Rocks
+Github Rocks! 
 
-<img source="https://octodex.github.com/images/heisencat.png">
+<img src="https://octodex.github.com/images/heisencat.png">
